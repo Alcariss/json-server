@@ -4,13 +4,15 @@
       "id": 0,
       "body": "Wow such content!",
       "user": "klara.ondrackova@alviso.cz",
-      "sender": "jan.chmelar@alviso.cz"
+      "sender": "jan.chmelar@alviso.cz",
+      "date": "monday"
     },
         {
       "id": 1,
       "body": "Hovno!",
       "user": "klara.ondrackova@alviso.cz",
-      "sender": "jan.chmelar@alviso.cz"
+      "sender": "jan.chmelar@alviso.cz",
+      "date": "tuesday"
     }
   ]
 }
